@@ -1,10 +1,10 @@
-var expect = chai.expect;
+let expect = chai.expect;
 
 describe("characterCount", function() {
   it("should return an object containing the counts for each letter in a given string", function() {
-    var str = "she sells sea shells by the sea shore";
+    let str = "she sells sea shells by the sea shore";
 
-    var result = characterCount(str);
+    let result = characterCount(str);
 
     expect(result).to.eql({
       s: 8,
