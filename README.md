@@ -1,5 +1,5 @@
 # JS-Algorithms
-
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  
 This repository dedicated to exploring various algorithms implemented in JavaScript. This repository serves as a learning hub for understanding and practicing algorithms, offering clear and concise JavaScript implementations of common and advanced algorithms.
 
 ## Features
